@@ -109,5 +109,6 @@ Key Observations:
 ## ⚡ Installation & Usage
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Human-Value-Detection.git
+git clone https://github.com/ferozsk428/human-value-detection.git
 cd Human-Value-Detection
+
